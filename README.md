@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yojangundya
+- 👋 Hi, I’m @Yojan Gundya
 - 👀 I’m interested in software devlopment
 - 🌱 I’m currently learning javascript,jdbc.
 - 💞️ I’m looking to collaborate on developers
